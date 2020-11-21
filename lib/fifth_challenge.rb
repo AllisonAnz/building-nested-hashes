@@ -24,6 +24,7 @@ def fifth_challenge
   }
 
   #code your solution here:
+  epic_tragedy[:montage][:patriarch][:name] = "Michael Jordan"
 
 
   #Don't touch the following line! The method must return our newly modified epic tragedy hash
